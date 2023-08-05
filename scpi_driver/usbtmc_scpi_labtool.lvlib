@@ -18,5 +18,6 @@
 		</Item>
 		<Item Name="Close.vi" Type="VI" URL="../public/Close.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../public/Initialize.vi"/>
+		<Item Name="VI Tree.vi" Type="VI" URL="../VI Tree.vi"/>
 	</Item>
 </Library>
