@@ -13,6 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="scpi_driver" Type="Folder">
 			<Item Name="Example.vi" Type="VI" URL="../Example.vi"/>
+			<Item Name="Example_analog_read.vi" Type="VI" URL="../Example_analog_read.vi"/>
 			<Item Name="Example_blinky.vi" Type="VI" URL="../Example_blinky.vi"/>
 			<Item Name="usbtmc_scpi_labswitch.lvlps" Type="Document" URL="../usbtmc_scpi_labswitch.lvlps"/>
 			<Item Name="usbtmc_scpi_labtool.lvlib" Type="Library" URL="../usbtmc_scpi_labtool.lvlib"/>
