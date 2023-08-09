@@ -13,6 +13,7 @@
 			<Item Name="Digital Out Control.vi" Type="VI" URL="../public/Action-Status/Digital Out Control.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
+			<Item Name="Read Analog Hires.vi" Type="VI" URL="../public/Data/Read Analog Hires.vi"/>
 			<Item Name="Read Analog.vi" Type="VI" URL="../public/Data/Read Analog.vi"/>
 			<Item Name="Read Digital Out.vi" Type="VI" URL="../public/Data/Read Digital Out.vi"/>
 		</Item>
