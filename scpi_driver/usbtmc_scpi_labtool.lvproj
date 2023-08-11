@@ -12,8 +12,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="scpi_driver" Type="Folder">
-			<Item Name="Example.vi" Type="VI" URL="../Example.vi"/>
-			<Item Name="Example_blinky.vi" Type="VI" URL="../Example_blinky.vi"/>
+			<Item Name="Example_analog_read.vi" Type="VI" URL="../Example_analog_read.vi"/>
+			<Item Name="Example_digital_out_control.vi" Type="VI" URL="../Example_digital_out_control.vi"/>
 			<Item Name="usbtmc_scpi_labswitch.lvlps" Type="Document" URL="../usbtmc_scpi_labswitch.lvlps"/>
 			<Item Name="usbtmc_scpi_labtool.lvlib" Type="Library" URL="../usbtmc_scpi_labtool.lvlib"/>
 		</Item>
@@ -53,7 +53,6 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="increment_generator.vi" Type="VI" URL="../../../../../../ni/labview_common_utilities/building blocks/generic/increment_generator.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
