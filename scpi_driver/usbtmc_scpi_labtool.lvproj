@@ -12,6 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="scpi_driver" Type="Folder">
+			<Item Name="Example_analog_out_control.vi" Type="VI" URL="../Example_analog_out_control.vi"/>
 			<Item Name="Example_analog_read.vi" Type="VI" URL="../Example_analog_read.vi"/>
 			<Item Name="Example_digital_out_control.vi" Type="VI" URL="../Example_digital_out_control.vi"/>
 			<Item Name="usbtmc_scpi_labswitch.lvlps" Type="Document" URL="../usbtmc_scpi_labswitch.lvlps"/>
