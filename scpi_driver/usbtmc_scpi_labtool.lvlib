@@ -10,15 +10,18 @@
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Action-Status" Type="Folder">
+			<Item Name="Analog Out Control.vi" Type="VI" URL="../public/Action-Status/Analog Out Control.vi"/>
 			<Item Name="Digital Out Control.vi" Type="VI" URL="../public/Action-Status/Digital Out Control.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Read Analog Hires.vi" Type="VI" URL="../public/Data/Read Analog Hires.vi"/>
+			<Item Name="Read Analog Out.vi" Type="VI" URL="../public/Data/Read Analog Out.vi"/>
 			<Item Name="Read Analog.vi" Type="VI" URL="../public/Data/Read Analog.vi"/>
+			<Item Name="Read Digital In.vi" Type="VI" URL="../public/Data/Read Digital In.vi"/>
 			<Item Name="Read Digital Out.vi" Type="VI" URL="../public/Data/Read Digital Out.vi"/>
 		</Item>
 		<Item Name="Close.vi" Type="VI" URL="../public/Close.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../public/Initialize.vi"/>
-		<Item Name="VI Tree.vi" Type="VI" URL="../VI Tree.vi"/>
+		<Item Name="VI Tree.vi" Type="VI" URL="../public/VI Tree.vi"/>
 	</Item>
 </Library>
