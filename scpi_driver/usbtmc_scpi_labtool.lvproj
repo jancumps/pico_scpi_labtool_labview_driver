@@ -17,7 +17,6 @@
 			<Item Name="Example_digital_out_control.vi" Type="VI" URL="../Example_digital_out_control.vi"/>
 			<Item Name="Example_digital_out_speed_test.vi" Type="VI" URL="../Example_digital_out_speed_test.vi"/>
 			<Item Name="Example_resistor_pass_fail.vi" Type="VI" URL="../Example_resistor_pass_fail.vi"/>
-			<Item Name="usbtmc_scpi_labswitch.lvlps" Type="Document" URL="../usbtmc_scpi_labswitch.lvlps"/>
 			<Item Name="usbtmc_scpi_labtool.lvlib" Type="Library" URL="../usbtmc_scpi_labtool.lvlib"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
