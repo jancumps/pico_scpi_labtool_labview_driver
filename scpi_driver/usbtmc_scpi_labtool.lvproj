@@ -16,10 +16,10 @@
 			<Item Name="Example_analog_read.vi" Type="VI" URL="../Example_analog_read.vi"/>
 			<Item Name="Example_digital_out_control.vi" Type="VI" URL="../Example_digital_out_control.vi"/>
 			<Item Name="Example_digital_out_speed_test.vi" Type="VI" URL="../Example_digital_out_speed_test.vi"/>
-			<Item Name="Example_digital_srq_wait.vi" Type="VI" URL="../Example_digital_srq_wait.vi"/>
 			<Item Name="Example_resistor_pass_fail.vi" Type="VI" URL="../Example_resistor_pass_fail.vi"/>
 			<Item Name="usbtmc_scpi_labtool.lvlib" Type="Library" URL="../usbtmc_scpi_labtool.lvlib"/>
 		</Item>
+		<Item Name="Example_digital_srq_wait.vi" Type="VI" URL="../Example_digital_srq_wait.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
