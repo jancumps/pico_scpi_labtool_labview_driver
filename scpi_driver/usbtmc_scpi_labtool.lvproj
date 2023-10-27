@@ -14,6 +14,7 @@
 		<Item Name="scpi_driver" Type="Folder">
 			<Item Name="Example_analog_out_control.vi" Type="VI" URL="../Example_analog_out_control.vi"/>
 			<Item Name="Example_analog_read.vi" Type="VI" URL="../Example_analog_read.vi"/>
+			<Item Name="Example_analog_read_highres.vi" Type="VI" URL="../Example_analog_read_highres.vi"/>
 			<Item Name="Example_digital_out_control.vi" Type="VI" URL="../Example_digital_out_control.vi"/>
 			<Item Name="Example_digital_out_speed_test.vi" Type="VI" URL="../Example_digital_out_speed_test.vi"/>
 			<Item Name="Example_digital_srq_wait.vi" Type="VI" URL="../Example_digital_srq_wait.vi"/>
