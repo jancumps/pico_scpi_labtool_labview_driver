@@ -18,6 +18,7 @@
 			<Item Name="Example_digital_out_control.vi" Type="VI" URL="../Example_digital_out_control.vi"/>
 			<Item Name="Example_digital_out_speed_test.vi" Type="VI" URL="../Example_digital_out_speed_test.vi"/>
 			<Item Name="Example_digital_srq_wait.vi" Type="VI" URL="../Example_digital_srq_wait.vi"/>
+			<Item Name="Example_pico_data_acquisition_tool.vi" Type="VI" URL="../Example_pico_data_acquisition_tool.vi"/>
 			<Item Name="Example_resistor_pass_fail.vi" Type="VI" URL="../Example_resistor_pass_fail.vi"/>
 			<Item Name="usbtmc_scpi_labtool.lvlib" Type="Library" URL="../usbtmc_scpi_labtool.lvlib"/>
 		</Item>
